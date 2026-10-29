@@ -1,0 +1,5 @@
+[
+  {"resource_type": "nios_dns_record_a", "positive": 3, "negative": 1},
+  {"resource_type": "nios_dns_record_aaaa", "positive": 3, "negative": 1},
+  {"resource_type": "nios_dns_record_cname", "positive": 2, "negative": 1}
+]
